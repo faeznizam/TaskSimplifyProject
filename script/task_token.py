@@ -87,7 +87,7 @@ def change_card_type(new_df):
 # main function
 def main():
     # input folder path. Edit path accordingly
-    folder_path = r'C:\Users\mfmohammad\OneDrive - UNICEF\Desktop\TM Schedule Files\Tokenization\2024\Apr\15'
+    folder_path = r'C:\Users\mfmohammad\OneDrive - UNICEF\Desktop\TM Schedule Files\Tokenization\2024\Apr\08'
 
     files = os.listdir(folder_path)
 
